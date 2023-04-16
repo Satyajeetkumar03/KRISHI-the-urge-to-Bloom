@@ -1,0 +1,59 @@
+.p{
+    margin: 12px;
+    padding-left: 560px;
+    padding-top: 23px;
+}
+.head{
+    width: 100%;
+    background-color:rgb(6, 6, 45);
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    width: 100%;
+    height:100px;
+   
+}
+.video1 video{
+    height: 600;
+    margin-left: 235px;
+   
+    
+}
+.video1{
+    margin-top: 15px;
+    width: 100%;
+    background-image: url(../animal/blur.png);
+    height: 600;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}
+.main h4{
+    padding-left: 150px;
+}
+.img{
+    display: flex;
+    margin-left: 290px;
+    padding-right: 25px;
+}
+.img img{
+    padding-right: 45px;
+}
+.img1{
+    display: flex;
+    margin-left: 230px;
+    padding-right: 25px;
+}
+.img1 img{
+    padding-right: 45px;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 45);
+    font-weight: bold;
+    width: 100%;
+    height:150px;
+    padding: 25px;
+    
+}
